@@ -1,7 +1,5 @@
 ### XAMPP instalation for windows 10 | Set system environment variable 
 
-In this repo I explain how to install XAMPP on windows 10 and provide basic PHP syntax and documenation. Will be updated.
-
 ### Installing XAMPP
 Downlad XAMPP from here [apache friens](https://www.apachefriends.org/download.html). <br>
 I installed version 8.2.0 / PHP 8.2.0 <br>
